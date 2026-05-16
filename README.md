@@ -19,7 +19,7 @@
 + Based in Brazil 🇧🇷
 - 18 years old
 ! Full Stack developer building modern web applications
-# Focused on Front-End, Back-End, clean architecture and constant learning
+# Focused on Back-End, clean architecture and constant learning
 ```
 
 ### 🛠 **My Tools:**
@@ -45,8 +45,6 @@
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </div>
 
 ### 🌐 **Website:**
